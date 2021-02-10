@@ -18,7 +18,7 @@
 <img align="left" alt="tensorflow" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/1*pJm1NTQ-DCJvsLvo03idZQ.png" />
 <img align="left" alt="pytorch" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/pytorch-logo.png" />
 <br/>
-### Tooooools
+
 <img align="left" alt="apple" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="safari" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" />
