@@ -1,7 +1,9 @@
 ### Welcome to my Github page 😀 I'm Hank 
 </br>
-I'm a Computer science major student at National Yang Ming Chiao Tung University 📖
-
+- I'm a Computer science major student at National Yang Ming Chiao Tung University 📖
+-  I’m currently learning everything 🤣
+-  2021 Goals: Contribute more on Github
+-  Fun fact: I love magic🪄 and music🎵
 
 ## Connect with me ✉️
 [<img align="left" alt="hankshyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002563602760)
