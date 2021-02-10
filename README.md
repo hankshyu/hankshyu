@@ -1,6 +1,6 @@
 ### Welcome to my Github page 😀 I'm Hank 
 </br>
-I'm a Computer science major student at [National Yang Ming Chiao Tung University](https://www.cs.nycu.edu.tw) 📖
+I'm a Computer science major student at National Yang Ming Chiao Tung University 📖
 
 
 ## Connect with me ✉️
