@@ -17,4 +17,5 @@ I'm a Computer science major student at National Yang Ming Chiao Tung University
 <img align="left" alt="vim" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-plain.svg" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="middle" alt="tf" width="30px" src="https://levelup.gitconnected.com/5-important-changes-coming-with-tensorflow-2-0-e6bb172c5fdf" />
 
