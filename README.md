@@ -1,4 +1,4 @@
-### Welcome to my Github page😀 I'm Hank - aka [hankshyu][website] 👋
+### Welcome to my Github page 😀 I'm Hank 
 
 <!--
 **hankshyu/hankshyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Connect
+## Connect with me ✉️
+[<img align="left" alt="hankshyu.com" width="22px" src="https://www.instagram.com/orange_gama/" />][website]
