@@ -22,7 +22,3 @@
 <img align="left" alt="tensorflow" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/1*pJm1NTQ-DCJvsLvo03idZQ.png" />
 <img align="left" alt="pytorch" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/pytorch-logo.png" />
 
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
