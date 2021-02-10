@@ -1,6 +1,6 @@
 ### Welcome to my Github page 😀 I'm Hank 
 </br>
-I’m a Computer science major at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw).
+My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 
 ## Connect with me ✉️
 [<img align="left" alt="hankshyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002563602760)
