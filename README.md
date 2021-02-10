@@ -1,5 +1,5 @@
 ### Welcome to my Github page! I'm Hank from Taiwan <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">  
-- 📖 I'm a Computer science major student at [National Yang Ming Chiao Tung University]()
+- 📖 I'm a [Computer science](https://www.cs.nycu.edu.tw) major student at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw)
 - 🤣 I’m currently learning everything 
 - ⚡️ 2021 Goals: Contribute more on Github
 -  🔭 Fun fact: I love magic🪄 and music🎵
