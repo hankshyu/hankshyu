@@ -1,4 +1,4 @@
-### Welcome to my Github page 😀 I'm Hank 
+### Welcome to my Github page <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> I'm Hank 
 - 📖 I'm a Computer science major student at National Yang Ming Chiao Tung University 
 - 🤣 I’m currently learning everything 
 - ⚡️ 2021 Goals: Contribute more on Github
