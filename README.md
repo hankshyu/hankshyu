@@ -8,6 +8,7 @@
 [<img align="left" alt="hankshyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002563602760)
 [<img align="left" alt="hankshyu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/orange_gama/)
 </br>
+ or give some ♥ on [mail](mailto:hankshyu@gmail.com) .
 ## language and Tools 🔨
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
@@ -20,3 +21,8 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="tensorflow" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/1*pJm1NTQ-DCJvsLvo03idZQ.png" />
 <img align="left" alt="pytorch" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/pytorch-logo.png" />
+
+
+
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adnanazmee/adnanazmee)
