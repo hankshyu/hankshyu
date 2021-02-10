@@ -1,6 +1,6 @@
 ### Welcome to my Github page 😀 I'm Hank 
 </br>
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+[Google](http://www.google.com/)
 
 ## Connect with me ✉️
 [<img align="left" alt="hankshyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002563602760)
