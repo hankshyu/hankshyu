@@ -8,7 +8,8 @@
 [<img align="left" alt="hankshyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002563602760)
 [<img align="left" alt="hankshyu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/orange_gama/)
 </br>
- or give some ♥ on [mail](mailto:hankshyu@gmail.com) .
+or give some ♥ on [mail](mailto:hankshyu@gmail.com) .
+</br>
 ## language and Tools 🔨
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
