@@ -1,8 +1,8 @@
 ### Welcome to my Github page! I'm Hank from Taiwan <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">  
 - 📖 I'm a [Computer science](https://www.cs.nycu.edu.tw) major student at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw)
-- 🤣 I’m currently learning everything 
-- ⚡️ 2021 Goals: Contribute more on Github
--  🔭 Fun fact: I love magic and music
+- 🤣 My interest of study is software hardware intergration
+- ⚡️ 2022 Goals: Learn more about RISCV, digital design and assembly
+-  🔭 Fun fact: I'm a fan of music, art and sports(basketball).
 
 ## Connect with me ✉️
 [<img align="left" alt="hankshyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002563602760)
