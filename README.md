@@ -21,8 +21,11 @@
 
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="pytorch" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/pytorch-logo.png" />
-<img align="left" alt="jupyter"  x" src="https://github.com/hankshyu/hankshyu/blob/main/materials/pytorch-logo.png" />
+<img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+
+
+<img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 
