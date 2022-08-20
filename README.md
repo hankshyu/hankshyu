@@ -29,11 +29,14 @@
 <br>
 
 ### Hardware
-<img align="left" alt="verilog" width="26px" src="materials/ic%20icon.svg" />
-<img align="left" alt="verilog" width="26px" src="materials/riscv.png" />
-<img align="left" alt="verilog" width="26px" src="materials/systemverilog.svg" />
-<img align="left" alt="verilog" width="26px" src="materials/verlog.svg" />
-<img align="left" alt="verilog" width="26px" src="materials/xilinx.png" />
+<img align="left" alt="ICicon" width="28px" src="materials/ic%20icon.svg" />
+<img align="left" alt="verilog" width="32px" src="materials/verlog.svg" />
+<img align="left" alt="systemverilog" width="32px" src="materials/systemverilog.svg" />
+<img align="left" alt="riscv" width="32px" src="materials/riscv.png" />
+<img align="left" alt="xilinx" width="26px" src="materials/xilinx.png" />
+
+
+
 
 <br>
 
