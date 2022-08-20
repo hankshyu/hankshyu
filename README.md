@@ -13,7 +13,7 @@
 ## language and Tools 🔨
 
 
-### Hardware
+### Software
 
 <img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
@@ -26,6 +26,9 @@
 <img align="left" alt="anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <br>
+
+### Hardware
+<img align="left" alt="verilog" width="26px" src="materials/verlog.svg" />
 
 ### Tools
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
