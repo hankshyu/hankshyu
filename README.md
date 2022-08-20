@@ -31,7 +31,7 @@
 ### Hardware
 <img align="left" alt="verilog" width="26px" src="materials/ic%20icon.svg" />
 <img align="left" alt="verilog" width="26px" src="materials/riscv.png" />
-<img align="left" alt="verilog" width="26px" src="materials/systemverlog.svg" />
+<img align="left" alt="verilog" width="26px" src="materials/systemverilog.svg" />
 <img align="left" alt="verilog" width="26px" src="materials/verlog.svg" />
 <img align="left" alt="verilog" width="26px" src="materials/xilinx.png" />
 
