@@ -25,10 +25,17 @@
 <img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+
 <br>
 
 ### Hardware
+<img align="left" alt="verilog" width="26px" src="materials/ic%20icon.svg" />
+<img align="left" alt="verilog" width="26px" src="materials/riscv.png" />
+<img align="left" alt="verilog" width="26px" src="materials/systemverlog.svg" />
 <img align="left" alt="verilog" width="26px" src="materials/verlog.svg" />
+<img align="left" alt="verilog" width="26px" src="materials/xilinx.png" />
+
+<br>
 
 ### Tools
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
