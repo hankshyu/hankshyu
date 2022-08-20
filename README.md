@@ -21,7 +21,7 @@
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="pytorch" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/pytorch-logo.png" />
+<img align="left" alt="pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
