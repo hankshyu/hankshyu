@@ -13,7 +13,7 @@
 ## language and Tools 🔨
 
 
-### Software
+## Software <img align="left" alt="software" width="26px" src="materials/software.png" />
 
 <img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
@@ -28,19 +28,16 @@
 
 <br>
 
-### Hardware
+## Hardware <img align="left" alt="hardware" width="26px" src="materials/motherboard.png" />
 <img align="left" alt="ICicon" width="28px" src="materials/ic%20icon.svg" />
 <img align="left" alt="verilog" width="32px" src="materials/verlog.svg" />
 <img align="left" alt="systemverilog" width="32px" src="materials/systemverilog.svg" />
 <img align="left" alt="riscv" width="32px" src="materials/riscv.png" />
 <img align="left" alt="xilinx" width="26px" src="materials/xilinx.png" />
 
-
-
-
 <br>
 
-### Tools
+## Tools <img align="left" alt="hardware" width="26px" src="materials/tools.png" />
 <img align="left" alt="git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 
 <img align="left" alt="linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
