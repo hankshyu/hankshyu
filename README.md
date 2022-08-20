@@ -13,7 +13,7 @@
 ## language and Tools 🔨
 
 
-### Hardware
+### Software
 
 <img align="left" alt="c" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img align="left" alt="cplusplus" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
@@ -21,10 +21,23 @@
 <img align="left" alt="java" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 
 <img align="left" alt="python" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
-<img align="left" alt="pytorch" width="26px" src="https://github.com/hankshyu/hankshyu/blob/main/materials/pytorch-logo.png" />
+<img align="left" alt="pytorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 <img align="left" alt="anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
 <img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+
+<br>
+
+### Hardware
+<img align="left" alt="ICicon" width="28px" src="materials/ic%20icon.svg" />
+<img align="left" alt="verilog" width="32px" src="materials/verlog.svg" />
+<img align="left" alt="systemverilog" width="32px" src="materials/systemverilog.svg" />
+<img align="left" alt="riscv" width="32px" src="materials/riscv.png" />
+<img align="left" alt="xilinx" width="26px" src="materials/xilinx.png" />
+
+
+
+
 <br>
 
 ### Tools
