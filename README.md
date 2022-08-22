@@ -36,12 +36,10 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 
 
 ## Where to find me
-[<img align="left" alt="hankshyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002563602760)
-[<img align="left" alt="hankshyu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/orange_gama/)
+
+<a href="https://github.com/hankshyu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.facebook.com/profile.php?id=100002563602760" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/orange_gama/" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
+<a href="https://www.youtube.com/channel/UCrfgEUP200xXLi7N46LDbNA"><img alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
 ... or show me some ♥ via [mail](mailto:hankshyu@gmail.com)
-
-## Where to find me
-
-<a href="https://github.com/hankshyu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white"/></a> 
-
