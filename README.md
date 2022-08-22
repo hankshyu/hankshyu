@@ -9,7 +9,7 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 -  🔭 Fun fact: I'm a fan of music, art and sports(basketball).
 
 
-## language and Tools 🔨
+## language and Tools
 
 <img alt="software" width="35px" src="materials/software.png" /> <img  alt ="arrow" width = "26px" src="materials/arrow.png" /> <img alt="c" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="cpp" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
@@ -35,7 +35,7 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 <img alt="git" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 
 
-## Connect with me ✉️
+## Where to find me
 [<img align="left" alt="hankshyu | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/profile.php?id=100002563602760)
 [<img align="left" alt="hankshyu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/orange_gama/)
 
