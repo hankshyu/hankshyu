@@ -1,12 +1,14 @@
 ## Welcome to my Github page!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> 
 
 <p>
-This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiwan</b> </br> I'm currently a <a href="https://www.cs.nycu.edu.tw">Computer Engineering</a> major student at  <img src="materials/NYCU.png" width="13"/><a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a> 
+This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiwan</b> </br> I'm currently a <a href="https://www.cs.nycu.edu.tw">Computer Engineering</a> major student at <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a> 
 </p>
 
-- 🤣 My interest of study is software-hardware integration
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankshyu&show_icons=true&theme=gothem" alt="mystats" />
+
+- 🤣 My interest of study is Digital System Design and A.I.
 - ⚡️ 2022 Goals: Learn more about RISCV, digital design and assembly
--  🔭 Fun fact: I'm a fan of music, art and sports(basketball).
+-  🔭 Fun fact: I'm a fan of music, art and sports.
 
 
 ## language and Tools
@@ -42,5 +44,3 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 <a href="https://www.facebook.com/profile.php?id=100002563602760" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/orange_gama/" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
 <a href="https://www.youtube.com/channel/UCrfgEUP200xXLi7N46LDbNA"><img alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
-
-
