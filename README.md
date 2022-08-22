@@ -1,5 +1,10 @@
-### Welcome to my Github page! I'm Hank from Taiwan <img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px">  
-- 📖 I'm a [Computer science](https://www.cs.nycu.edu.tw) major student at [National Yang Ming Chiao Tung University](https://www.nycu.edu.tw)
+### Welcome to my Github page!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> 
+
+<p>
+This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiwan</b> </br> I'm currently a <a href="https://www.cs.nycu.edu.tw">Computer Engineering</a> major student at <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a> 
+</p>
+
+
 - 🤣 My interest of study is software-hardware integration
 - ⚡️ 2022 Goals: Learn more about RISCV, digital design and assembly
 -  🔭 Fun fact: I'm a fan of music, art and sports(basketball).
