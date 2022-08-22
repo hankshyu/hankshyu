@@ -27,11 +27,7 @@ My interest of study is <b>Digital System Design</b> and <b>Machine Learning</b>
 <img alt="xilinx" width="33px" src="materials/xilinx.png" />
 <br>
 
-<img alt="tools" width="35px" src="materials/tools.png" /> <img  alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img alt="ubuntu" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
-<img alt="vim" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
-<img alt="vscode" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-<img alt="git" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
+<img alt="tools" width="35px" src="materials/tools.png" /> <img  alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img alt="ubuntu" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> <img alt="vim" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> <img alt="vscode" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img alt="git" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 
 
 ## Where to find me
