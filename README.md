@@ -20,11 +20,7 @@ My interest of study is <b>Digital System Design</b> and <b>Machine Learning</b>
 <img alt="numpy" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <br>
 
-<img alt="hardware" width="35px" src="materials/motherboard.png" /> <img  alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="ICicon" width="33px" src="materials/ic%20icon.svg" />
-<img alt="verilog" width="40px" src="materials/verlog.svg" />
-<img alt="systemverilog" width="40px" src="materials/systemverilog.svg" />
-<img alt="riscv" width="40px" src="materials/riscv.png" />
-<img alt="xilinx" width="33px" src="materials/xilinx.png" />
+<img alt="hardware" width="35px" src="materials/motherboard.png" /> <img alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="verilog" width="40px" src="materials/verlog.svg" /> <img alt="systemverilog" width="40px" src="materials/systemverilog.svg" /> <img alt="riscv" width="40px" src="materials/riscv.png" /> <img alt="xilinx" width="33px" src="materials/xilinx.png" />
 <br>
 
 <img alt="tools" width="35px" src="materials/tools.png" /> <img  alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img alt="ubuntu" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /> <img alt="vim" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" /> <img alt="vscode" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /> <img alt="git" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
