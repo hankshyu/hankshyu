@@ -11,7 +11,7 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 
 ## language and Tools
 
-<img alt="software" width="35px" src="materials/software.png" /> <img  alt ="arrow" width = "26px" src="materials/arrow.png" /> <img alt="c" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="software" width="35px" src="materials/software.png" /> <img  alt ="arrow" width = "26px" src="materials/arrow-right.png" /> <img alt="c" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="cpp" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img alt="java" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img alt="python" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
@@ -21,7 +21,7 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 <img alt="numpy" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
 <br>
 
-<img alt="hardware" width="35px" src="materials/motherboard.png" /> <img  alt ="arrow" width = "26px" src="materials/arrow.png" /> <img alt="ICicon" width="33px" src="materials/ic%20icon.svg" />
+<img alt="hardware" width="35px" src="materials/motherboard.png" /> <img  alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="ICicon" width="33px" src="materials/ic%20icon.svg" />
 <img alt="verilog" width="40px" src="materials/verlog.svg" />
 <img alt="systemverilog" width="40px" src="materials/systemverilog.svg" />
 <img alt="riscv" width="40px" src="materials/riscv.png" />
