@@ -41,3 +41,7 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 
 ... or show me some ♥ via [mail](mailto:hankshyu@gmail.com)
 
+## Where to find me
+
+<a href="https://github.com/hankshyu" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white"/></a> 
+
