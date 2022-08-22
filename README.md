@@ -4,7 +4,7 @@
 This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiwan</b> </br> I'm currently a <a href="https://www.cs.nycu.edu.tw">Computer Engineering</a> major student at <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a> 
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankshyu&show_icons=true&theme=gothem" alt="mystats" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankshyu&show_icons=true&theme=slateorange" alt="mystats" />
 
 - 🤣 My interest of study is Digital System Design and A.I.
 - ⚡️ 2022 Goals: Learn more about RISCV, digital design and assembly
