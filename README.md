@@ -11,7 +11,7 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 
 ## language and Tools
 
-<img alt="software" width="35px" src="materials/software.png" /> <img  alt ="arrow" width = "26px" src="materials/arrow-right.png" /> <img alt="c" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img alt="software" width="35px" src="materials/software.png" /> <img  alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="c" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 <img alt="cpp" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" />
 <img alt="java" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" />
 <img alt="python" width="33px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
@@ -28,7 +28,7 @@ This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiw
 <img alt="xilinx" width="33px" src="materials/xilinx.png" />
 <br>
 
-<img alt="tools" width="35px" src="materials/tools.png" /> <img  alt ="arrow" width = "26px" src="materials/arrow.png" /> <img alt="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img alt="tools" width="35px" src="materials/tools.png" /> <img  alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="linux" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="ubuntu" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
 <img alt="vim" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
 <img alt="vscode" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
