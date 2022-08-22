@@ -6,8 +6,8 @@ I'm currently a <a href="https://www.cs.nycu.edu.tw">Computer Engineering</a> ma
 My interest of study is Digital System Design and Machine Learning
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankshyu&show_icons=true&theme=slateorange" alt="mystats" />
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankshyu&show_icons=true&theme=slateorange&hide=prs,contribs" alt="mystats" /></p>
+  
 ## language and Tools
 
 <img alt="software" width="35px" src="materials/software.png" /> <img  alt ="arrow" width = "26px" src="materials/white-arrow-right.png" /> <img alt="c" width="33px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
