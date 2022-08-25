@@ -35,4 +35,5 @@ My interest of study is <b>Digital System Design</b> and <b>Machine Learning</b>
 <a href="https://www.youtube.com/channel/UCrfgEUP200xXLi7N46LDbNA"><img alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
 Copyright © 2022 Tzu-Han Hsu
-Profile picture is photographed by Ting-Lan Hsu and reproduced by @imyungchu, permission of use is granted by both artists.
+
+Profile picture is photographed by Ting-Lan Hsu and reproduced by ![imyungchu](https://github.com/imyungchu), they own the copyright whilst permission of use is granted by both artists.
