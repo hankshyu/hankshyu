@@ -33,3 +33,6 @@ My interest of study is <b>Digital System Design</b> and <b>Machine Learning</b>
 <a href="https://www.facebook.com/profile.php?id=100002563602760" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="https://www.instagram.com/orange_gama/" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
 <a href="https://www.youtube.com/channel/UCrfgEUP200xXLi7N46LDbNA"><img alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
+
+Copyright © 2022 Tzu-Han Hsu
+Profile picture is photographed by Ting-Lan Hsu and reproduced by @imyungchu, permission of use is granted by both artists.
