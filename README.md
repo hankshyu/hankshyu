@@ -1,9 +1,10 @@
 ## Welcome to my Github page!<img src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px"> 
 
 <p>
-This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taichung, Taiwan</b> </br> 
-I'm currently a <a href="https://www.cs.nycu.edu.tw">Computer Engineering</a> major student at <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a> <br>
-My interest of study is <b>Digital Design</b> and <b>Machine Learning</b>
+This is Hank from <img src="materials/taiwan.png" width="13"/> <b>Taipei, Taiwan</b> </br> 
+I'm currently a <a href="https://giee.ntu.edu.tw">Electronics Engineering</a> postgraduate  at <a href="https://www.ntu.edu.tw">National Taiwan University</a> <br>
+I studied <a href="https://www.cs.nycu.edu.tw">Computer Engineering</a> at <a href="https://www.nycu.edu.tw">National Yang Ming Chiao Tung University</a> from  2019 ~ 2023<br>
+My interest of study is <b>Digital Design</b> and <b>Electronic design automation(EDA)</b>
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankshyu&show_icons=true&theme=slateorange&hide=prs,contribs" alt="mystats" /></p>
