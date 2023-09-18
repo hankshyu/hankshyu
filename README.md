@@ -35,6 +35,17 @@ My interest of study is <b>Digital Design</b> and <b>Electronic design automatio
 <a href="https://www.instagram.com/orange_gama/" target="_blank"><img alt="facebook" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a> 
 <a href="https://www.youtube.com/channel/UCrfgEUP200xXLi7N46LDbNA"><img alt="youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" /></a>
 
+<details>
+<summary>📈 Detail Statistics 📈</summary>
+<br>
+My Github Stats
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hankshyu&theme=rose_pine) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hankshyu&theme=rose_pine) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hankshyu&theme=rose_pine)
+
+</details>
 ---
 Copyright © 2022 Tzu-Han Hsu
 
