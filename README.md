@@ -7,7 +7,7 @@ I studied <a href="https://www.cs.nycu.edu.tw">Computer Engineering</a> at <a hr
 My interest of study is <b>Digital Design</b> and <b>Electronic design automation(EDA)</b>
 </p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankshyu&show_icons=true&theme=slateorange&hide=prs,contribs" alt="mystats" /></p>
+<p align="center"> <img src="https://github-stats-alpha.vercel.app/api?username=hankshyu&cc=222&tc=9ab&ic=47d&bc=000" alt="mystats" /></p>
   
 ## language and Tools
 
