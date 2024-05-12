@@ -48,5 +48,3 @@ My Github Stats
 </details>
 ---
 Copyright © 2022 Tzu-Han Hsu
-
-Profile picture is photographed by Ting-Lan Hsu and reproduced by <a href="https://github.com/imyungchu">imyungchu</a>, they own the copyright whilst permission of use is granted by both artists.
